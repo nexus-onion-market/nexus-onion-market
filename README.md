@@ -41,4 +41,6 @@ The **Nexus Onion Market** is a leading darknet marketplace known for its strong
 <a href="http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion"><img src="/global/control.webp" style="max-width: 100%;"></a>
 <a href="http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion"><img src="/global/hold.webp" style="max-width: 100%;"></a>
 
-Update:  14 September
+
+
+Update:  09/18/2025
